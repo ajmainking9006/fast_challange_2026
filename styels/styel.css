@@ -229,6 +229,9 @@ header {
     
 }
 @media screen and (min-width: 900px) {
+    .hero-bg-wrapperj{
+        flex-direction: column;
+    }
     
 }
 
