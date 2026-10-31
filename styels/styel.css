@@ -222,7 +222,7 @@ header {
     position: relative;
 }
 
-@media screen and (max-width: 577px){
+@media screen and (max-width: 477px){
     .hero-bg-wrapper{
         flex-direction: column;
     }
